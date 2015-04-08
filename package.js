@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Object.assign ponyfill for Meteor",
   version: "0.0.1",
-  git: "",
+  git: "https://github.com/maxharris9/object-assign.git",
   documentation: null
 });
 
